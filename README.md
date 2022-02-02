@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TianaCoker
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning the web development technologies.
-- 💞️ I’m looking to collaborate on any web development projects as well as ui ux projects.
+- 👀 I’m interested in Front-End Development,UI/UX, Data Science and Machine Learning.
+- 🌱 I’m currently on the path of mastering Front-end Development.
+- 💞️ I’m looking to collaborate on any front-end development projects as well as UI/UX projects.
 - 📫 You can reach me on tianacoker1@gmail.com ...
 
 <!---
