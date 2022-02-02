@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TianaCoker
+- 👋 Hi, I'm Tiana Coker
 - 👀 I’m interested in Front-End Development,UI/UX, Data Science and Machine Learning.
 - 🌱 I’m currently on the path of mastering Front-end development.
 - 💞️ I’m looking to collaborate on any front-end development projects as well as UI/UX projects.
